@@ -3,7 +3,9 @@ GEM
   specs:
     beefcake (0.3.7)
     builder (3.2.0)
-    i18n (0.6.4)
+    concurrent-ruby (1.1.10)
+    i18n (1.10.0)
+      concurrent-ruby (~> 1.0)
     innertube (1.0.2)
     multi_json (1.7.4)
     riak-client (1.2.0)
